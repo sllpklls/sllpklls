@@ -1,7 +1,6 @@
 hello im Thai
 my nickname is sllpklls
 -Vietnam Champion-
-my facebook : https://www.facebook.com/sllpklls.
 
 <!---
 sllpklls/sllpklls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
